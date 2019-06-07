@@ -14,7 +14,7 @@ description: 只要懷抱著希望，每一天都是美好的日子。
 #
 
 # 你的博客logo图片URL，建议尺寸不超过300px × 300px
-avatar: https://imgur.com/FLsoNe7
+avatar: 
 
 # 你的favicon（出现在浏览器tab上）图片URL，建议使用较小(64px × 64px)的图片
 favicon: 
@@ -36,13 +36,13 @@ paginate: 7
 
 # 你的社交网络链接，它们会作为图标出现在你的网站页脚中，可选填写
 footer-links: 
-  weibo: https://www.weibo.com/ttyorz #请输入你的微博个性域名 https://www.weibo.com/<thispart>
+  weibo: #请输入你的微博个性域名 https://www.weibo.com/<thispart>
   behance: # https://www.behance.net/<>
   dribbble: # https://dribbble.com/<>
   email: ttyorz60@gmail.com 
   facebook: #https://www.facebook.com/<>
   flickr: #https://www.flickr.com/<>
-  github: FromEndWorld/loffer #https://github.com/<>
+  github: FromEndWorld/The-Sun-Shining-Again. #https://github.com/<>
   instagram: #https://instagram.com/<>
   linkedin: #https://www.linkedin.com/in/<>
   pinterest: #https://www.pinterest.com/<>
