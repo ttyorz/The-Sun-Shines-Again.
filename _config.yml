@@ -36,7 +36,7 @@ paginate: 7
 
 # 你的社交网络链接，它们会作为图标出现在你的网站页脚中，可选填写
 footer-links: 
-  weibo: ttyorz #请输入你的微博个性域名 https://www.weibo.com/<thispart>
+  weibo: https://www.weibo.com/ttyorz #请输入你的微博个性域名 https://www.weibo.com/<thispart>
   behance: # https://www.behance.net/<>
   dribbble: # https://dribbble.com/<>
   email: ttyorz60@gmail.com 
@@ -49,7 +49,7 @@ footer-links:
   rss: #随便填点啥RSS就能用了
   stackoverflow: # http://stackoverflow.com/<>
   tumblr: # https://<username>.tumblr.com
-  plurk: ttyorz # https://www.twitter.com/<your_twitter_username> 
+  plurk: https://www.plurk.com/ttyorz # https://www.twitter.com/<your_twitter_username> 
   youtube: # channel/<your_long_string> or user/<user-name>
 
 # 站点页脚的文字
